@@ -1,0 +1,30 @@
+body {
+    background: #1c1c1e;
+}
+
+h1 {
+    text-align: center;
+    color: #fefefe;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+h2 {
+    color: #fefefe;
+}
+
+h3 {
+    color: #fefefe;
+}
+
+
+#a{
+    color: #fefefe;
+
+    float:right;
+   margin-right: 600px;
+}
+
+img {
+    border-radius: 50px;
+}
